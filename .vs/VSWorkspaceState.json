@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Assets",
+    "\\Assets\\Scripts",
+    "\\Assets\\Scripts\\GameCommandChatPanel",
+    "\\Assets\\Scripts\\Missile",
+    "\\Assets\\Scripts\\Player",
+    "\\Assets\\Scripts\\RadarUI",
+    "\\Assets\\Scripts\\ScriptableObj",
+    "\\Assets\\Scripts\\StartPage"
+  ],
+  "SelectedNode": "\\Assets\\Scripts\\GameCommandChatPanel\\CommandLib.cs",
+  "PreviewInSolutionExplorer": false
+}
